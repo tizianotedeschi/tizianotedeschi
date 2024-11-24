@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm a developer with experience in developing cross-platform mobile applications, websites and enterprise software integrated with the Microsoft 365 ecosystem. My education has allowed me to develop in-depth skills in programming, software architecture and database design and management.
 
-### 🛠️ Technologies & tools
+## 🛠️ Technologies & tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40px" height="40px" />
@@ -41,4 +41,4 @@ I'm a developer with experience in developing cross-platform mobile applications
   &nbsp;
 </p>
 
-### ⬇ Check out my repos
+## ⬇ Check out my repos
