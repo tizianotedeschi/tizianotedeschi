@@ -40,5 +40,3 @@ I'm a developer with experience in developing cross-platform mobile applications
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40px" height="40px" />
   &nbsp;
 </p>
-
-## ⬇ Check out my repos
